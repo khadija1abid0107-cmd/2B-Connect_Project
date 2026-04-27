@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE catalogue SYSTEM "catalogue.dtd">
+
+<catalogue>
+    <produit id="p1" disponible="oui">
+        <nom>Chaise artisanale</nom>
+        <description>Produit fait main</description>
+        <prix>120</prix>
+        <quantite>5</quantite>
+        <categorie>Artisanat</categorie>
+    </produit>
+
+    <produit id="p2" disponible="non">
+        <nom>Pain bio</nom>
+        <prix>2.5</prix>
+        <quantite>50</quantite>
+        <categorie>Alimentaire</categorie>
+    </produit>
+</catalogue>
